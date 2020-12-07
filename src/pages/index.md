@@ -5,9 +5,7 @@ sections:
     type: section_hero
     title: Modern Data Estate
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Unlock the value of your data.
     actions:
       - label: Get Started
         url: /docs
